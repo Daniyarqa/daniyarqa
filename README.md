@@ -7,7 +7,9 @@
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=214ce5)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=8a22fc)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=fbf850)
@@ -15,6 +17,7 @@
 ![Pytest](https://img.shields.io/badge/-Pytest-090909?style=for-the-badge&logo=pytest)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 
