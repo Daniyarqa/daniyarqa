@@ -1,6 +1,8 @@
+# Hi everyone 👋, I'm Daniyar
+
 ![Header](https://github.com/Daniyarqa/daniyarqa/blob/main/assets/bugs-reopen.gif)
 
-## I'm beginner QA Engineer (•◡•)
+## I'm beginner QA Engineer
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -17,4 +19,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 
-Social Media
+### Contact Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AnEnterpreneur)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=FF0069)](https://instagram.com/dan1yarqa)
